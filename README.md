@@ -1,4 +1,4 @@
-# Evolution_simulation
+# EvolutionSimulation
 
 The project consists of two parts: a simulation of bacteria reproduction and evolution, and a bot simulation with adjustable birth and death rates. Bacteria reproduce based on chance, while bots have random RGB color values and interact with each other, simulating an evolutionary process.
 
