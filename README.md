@@ -1,27 +1,23 @@
 # EvolutionSimulation
 
-The project consists of two parts: a simulation of bacteria reproduction and evolution, and a bot simulation with adjustable birth and death rates. Bacteria reproduce based on chance, while bots have random RGB color values and interact with each other, simulating an evolutionary process.
+## Table Of Contents
+- Description
+- Features
+- Contributing
+- Project Structure
 
-## Table of Contents
+## 📖 Description
+This code imports random and ursina from ursina import *. It creates a class called Bacteria(Button) with genetic code letters and a DNA variable. The class is initialized with a global variable and a DNA variable. The code then updates the bacteria variable based on the randomness of the genes. The bacteria variable is then added to the bacteria list.
 
-- [About](#about)
-- [Features](#features)
-- [Imports](#Imports)
-- [Rating: 6/10](#Rating)
+## 🚀 Features
+The description includes features such as importing random modules, inheriting a bacteria class from the button class, initializing global variables, implementing gene randomization, and adding new bacteria objects to a bacteria list. It suggests the use of `ursina` in a 3D or interactive environment for simulation or visual representation of genetic processes. Assistance is available for refining or troubleshooting the code.
 
-# About
+## 🤝 Contributing
+1. Fork the Repository
+    - Click on the Fork button at the top right corner of the repository page to create your own fork of the repository.
+2. Create a Pull Request
+    - Navigate to the original repository and create a pull request to merge your changes into the main branch.
 
-The project consists of two parts: a simulation of bacteria reproduction and evolution, and a bot simulation with adjustable birth and death rates. Bacteria reproduce based on a given chance, with their DNA influencing their color and reproduction chances. The bots, created with random RGB color values, interact with each other, with the chance of birth and death adjustable through sliders. The project simulates an evolutionary process, allowing bacteria to reproduce and evolve based on the color values of existing bots.
-
-# Features
-
-The project focuses on the simulation of bacteria reproduction and evolution, allowing for the transfer of genetic information over time. It also includes a bot simulation with adjustable birth and death rates, allowing for observation of changes in the bot population over time. The simulation also includes an evolutionary process, where bacteria reproduce and evolve based on the color values of existing bots. Over successive generations, the population may exhibit changes in color distribution and other characteristics. Overall, the project offers a fascinating exploration of how simple rules governing reproduction, genetics, and interactions can lead to complex emergent behaviors and evolution.
-
-
-# Imports
-
-random, ursina
-
-# Rating
-
-The project showcases simulation and interaction principles, but lacks clear objectives and gameplay elements, and could benefit from improved code structure for better organization and readability. Despite interesting concepts, it lacks depth and polish.
+## 📂 Project Structure
+  - 📄 Bacteria-simulation.py
+  - 📄 simulation_1.py
